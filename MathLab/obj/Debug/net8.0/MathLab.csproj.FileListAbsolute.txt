@@ -1,0 +1,14 @@
+F:\Technik\VS\MathLab\MathLab\bin\Debug\net8.0\MathLab.exe
+F:\Technik\VS\MathLab\MathLab\bin\Debug\net8.0\MathLab.deps.json
+F:\Technik\VS\MathLab\MathLab\bin\Debug\net8.0\MathLab.runtimeconfig.json
+F:\Technik\VS\MathLab\MathLab\bin\Debug\net8.0\MathLab.dll
+F:\Technik\VS\MathLab\MathLab\bin\Debug\net8.0\MathLab.pdb
+F:\Technik\VS\MathLab\MathLab\obj\Debug\net8.0\MathLab.GeneratedMSBuildEditorConfig.editorconfig
+F:\Technik\VS\MathLab\MathLab\obj\Debug\net8.0\MathLab.AssemblyInfoInputs.cache
+F:\Technik\VS\MathLab\MathLab\obj\Debug\net8.0\MathLab.AssemblyInfo.cs
+F:\Technik\VS\MathLab\MathLab\obj\Debug\net8.0\MathLab.csproj.CoreCompileInputs.cache
+F:\Technik\VS\MathLab\MathLab\obj\Debug\net8.0\MathLab.dll
+F:\Technik\VS\MathLab\MathLab\obj\Debug\net8.0\refint\MathLab.dll
+F:\Technik\VS\MathLab\MathLab\obj\Debug\net8.0\MathLab.pdb
+F:\Technik\VS\MathLab\MathLab\obj\Debug\net8.0\MathLab.genruntimeconfig.cache
+F:\Technik\VS\MathLab\MathLab\obj\Debug\net8.0\ref\MathLab.dll
