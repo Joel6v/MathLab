@@ -12,3 +12,4 @@ F:\Technik\VS\MathLab\MathLab\obj\Debug\net8.0\refint\MathLab.dll
 F:\Technik\VS\MathLab\MathLab\obj\Debug\net8.0\MathLab.pdb
 F:\Technik\VS\MathLab\MathLab\obj\Debug\net8.0\MathLab.genruntimeconfig.cache
 F:\Technik\VS\MathLab\MathLab\obj\Debug\net8.0\ref\MathLab.dll
+F:\Technik\VS\MathLab\MathLab\obj\Debug\net8.0\MathLab.sourcelink.json

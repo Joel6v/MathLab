@@ -22,10 +22,12 @@ public class Pi
     {
         double area = 0;
         double xStep = (double)1 / rectangels;
-        for (double x = xStep; x <= 1D; x+=xStep)
+        double x;
+        for (double i = xStep; i <= 1D; i+=xStep)
         {
-            area += xStep * Math.Sqrt(4 - x * x);
+            x = (i - xStep / 2) * 2;
+            area += xStep * Math.Sqrt(4 - x * x) / 2;
         }
-        return area;
+        return area * 4;
     }
 }
